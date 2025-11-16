@@ -1,0 +1,9 @@
+{
+  "name": "majiko.fan",
+  "version": "1.0.0",
+  "description": "Majiko Fan Website",
+  "main": "index.js",
+  "repository": "https://github.com/aimerneige/majiko.fan",
+  "author": "Aimer Neige <aimer.neige.soft@gmail.com>",
+  "license": "MIT"
+}
