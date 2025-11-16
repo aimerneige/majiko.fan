@@ -1,0 +1,4 @@
+- [ ] Majiko Photography
+- [ ] Majiko Fan Artwork
+- [ ] Majiko Lyrics
+- [ ] Majiko WikipediaW
